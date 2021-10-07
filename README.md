@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamas</h1>
 <h3 align="center">I'm an Android Engineer at Instructure, working on Canvas, one of the leading LMS in the US.</h3>
 
-- 🔭 I’m currently working on [Canvas Mobile](https://github.com/instructure/canvas-android)
+- 🔭 I’m currently working on [Canvas Mobile](https://github.com/instructure/canvas-android), commiting with my [company account](https://github.com/tamaskozmer).
 
 - 🌱 I’m currently learning **Flutter, Dart, iOS**
 
